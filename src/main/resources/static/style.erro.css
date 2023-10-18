@@ -1,18 +1,17 @@
 
-  @import url('https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&display=swap');
-
+  @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Cardo', serif;;
+    font-family: 'Pixelify Sans', sans-serif;
     text-decoration: none;
     list-style: none;
 }
 
 body{
-    background: #28c16f;
+    background: #8932c450;
     overflow: hidden;
 }
 .header{
@@ -73,12 +72,12 @@ body{
 }
 .left h4{
     font-size: 2rem;
-    color: #1c683f;
+    color: #c70f0959;
     margin-bottom: 3rem;
 }
 .btn{
     padding: 1.2rem 2.5rem;
-    background: #1c683f;
+    background: #6b092a;
     border-radius: 15px;
     color: #fff;
     font-size: 1.2rem;
@@ -86,7 +85,7 @@ body{
     transition: all 0.3s ease;
 }
 .btn:hover{
-    box-shadow: 0 3px 5px #1c683f;
+    box-shadow: 0 3px 5px #6b092a;
 }
 .right img{
     width: 500px;
